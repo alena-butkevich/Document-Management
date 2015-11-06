@@ -8,26 +8,29 @@
     <title>Главная</title>
 </head>
 <body>
-    <div class="wrapper">
-        <div class="left-sidebar">
-            <h1>@DocumentFlow.Controllers.AccountController.FullName</h1>
-            <ul class="AccountMenu">
-                <li>@Html.ActionLink("Редактировать", "")</li>
-                <li>@Html.ActionLink("Удалить", "Delete", "Account")</li>
-                <li>@Html.ActionLink("Выйти", "")</li>
-            </ul>
-
-            <nav>
-                @Html.ActionLink("Входящие","")
-                @Html.ActionLink("Исходящие", "")
-                @Html.ActionLink("Заполнить", "")
-            </nav>
-        </div>
-        <div class="main-block">
-            <div class="header">
-                @RenderBody()
-            </div>
+<div class="wrapper">
+    <div class="left-sidebar">
+        <ul class="menu">
+            <li class="menu-item">
+                <h1>@DocumentFlow.Controllers.AccountController.FullName</h1>
+                <ul class="submenu">
+                    <li class="submenu-item">@Html.ActionLink("Редактировать", "")</li>
+                    <li class="submenu-item">@Html.ActionLink("Удалить", "Delete", "Account")</li>
+                    <li class="submenu-item">@Html.ActionLink("Выйти", "")</li>
+                </ul>
+            </li>
+        </ul>
+        <nav>
+            @Html.ActionLink("Входящие", "")
+            @Html.ActionLink("Исходящие", "")
+            @Html.ActionLink("Заполнить", "")
+        </nav>
+    </div>
+    <div class="main-block">
+        <div class="header">
         </div>
     </div>
+</div>
+@RenderBody()
 </body>
 </html>
