@@ -48,3 +48,47 @@ c:\users\ksenia\documents\visual studio 2013\Projects\DocumentFlow\DocumentFlow\
 C:\Users\Ksenia\Documents\Visual Studio 2013\Projects\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.InitialCreate.resources
 C:\Users\Ksenia\Documents\Visual Studio 2013\Projects\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csproj.GenerateResource.Cache
 C:\Users\Ksenia\Documents\Visual Studio 2013\Projects\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.DataMigration.resources
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.InitialCreate.resources
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.DataMigration.resources
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csproj.GenerateResource.Cache
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll.config
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\DocumentFlow.pdb
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Owin.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Razor.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Razor.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.xml
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.dll
+D:\SourceTreeProjects\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.pdb
