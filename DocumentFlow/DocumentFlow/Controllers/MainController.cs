@@ -15,33 +15,30 @@ namespace DocumentFlow.Controllers
             return View();
         }
 
-        DocumentContext db = new DocumentContext();
+        ApplicationContext db = new ApplicationContext();
 
-        public List<Document> getInputDocuments(int userid)
+        [HttpGet]
+        public ViewResult Incoming()
         {
             List<Document> list = new List<Document>();
-            
-                foreach (Document d in db.documents)
-                {
-                    if (userid == d.userid)
-                    {
-                        list.Add(d);
-                    }
-                }
-                return list;
-      }
-
-        public List<Document> getOutputDocuments(int currentid)
-        {
-            List<Document> list = new List<Document>();
-            foreach (Document d in db.documents)
+            using (ApplicationContext context = new ApplicationContext())
             {
-                if (currentid == d.currentid)
-                {
-                    list.Add(d);
-                }
+                list = db.documents.Where(x => AccountController.UserId == x.userid).ToList();
             }
-            return list;
+            return View(list);
+ 
+        }
+
+
+        [HttpGet]
+        public ViewResult Outcoming()
+        {
+            List<Document> list = new List<Document>();
+            using (ApplicationContext context = new ApplicationContext())
+            {
+                list = db.documents.Where(x => AccountController.UserId == x.currentid).ToList();
+            }
+            return View(list);
         }
     }
 }
